@@ -56,8 +56,8 @@ You can use any of 1 of these ways to set up everything:
 3. You could run the shell script from the cloned github repo, but that may create problems later on when you want to convert and connect your project into a Github repository. Therefore, it is advisable to create a new directory outside of the cookiecutter github repository.
 
 
-##Acknowledgements
+## Acknowledgements
 
 The structure is based on, and heavily follows the one proposed by chendaniely's computational project, with a few modifications.
 
-###Enjoy!
+### Enjoy!
