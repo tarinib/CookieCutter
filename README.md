@@ -26,16 +26,16 @@ The ```cookiecutter.sh``` script creates the following folder structure for your
 
 |-- CONDUCT
 
-|-- data/ # directory to store data sets
+|-- data/                 # directory to store data sets
 
-|-- doc/ # directory for documentation
+|-- doc/                  # directory for documentation
 
-|-- results/ #store analysis results
+|-- results/              #store analysis results
 
-|-- src/  # any source code
+|-- src/                  # any source code
 
-|-- from_joe/ # info that does not follow our guidelines 
-              # but these things are still be important 
+|-- from_joe/             # info that does not follow our guidelines 
+                          # but these things are still be important 
 ```
 
 ## Installation
