@@ -53,7 +53,7 @@ You can use any of 1 of these ways to set up everything:
 
 1. Navigate to the directory where you want to set up your project. 
 2. Copy the shell script and run the following command : ```bash cookicutter.sh``` from this path.
-3. You could run the shell script from the cloned github repo, but that may create problems later on when you want to convert and connect your project into a Github repository. Therefore, it is advisable to create a new directory outside of the cookiecutter github repository.
+3. Do not run the shell script from the cloned github repo, which will may create problems later when you want to convert and connect your project to a Github repository. Therefore, it is advisable to create a new directory outside of the cookiecutter github repository and run the shell script over there.
 
 
 ## Acknowledgements
