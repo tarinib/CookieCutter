@@ -30,7 +30,7 @@ The ```cookiecutter.sh``` script creates the following folder structure for your
 
 |-- doc/                  # directory for documentation
 
-|-- results/              #store analysis results
+|-- results/              # store analysis results
 
 |-- src/                  # any source code
 
@@ -52,7 +52,7 @@ You can use any of 1 of these ways to set up everything:
 ## How to use
 
 1. Navigate to the directory where you want to set up your project. 
-2. Copy the shell script and run the following command : ```sh cookicutter.sh``` from this path.
+2. Copy the shell script and run the following command : ```bash cookicutter.sh``` from this path.
 3. You could run the shell script from the cloned github repo, but that may create problems later on when you want to convert and connect your project into a Github repository. Therefore, it is advisable to create a new directory outside of the cookiecutter github repository.
 
 
